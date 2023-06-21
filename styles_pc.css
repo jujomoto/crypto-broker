@@ -1,0 +1,7 @@
+.planes__card--container {
+	justify-content: center;
+}
+.product-cards--container {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+}
